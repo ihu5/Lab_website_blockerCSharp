@@ -4,7 +4,7 @@ GUI application written in C# to block websites that can be used in school Labs 
 
 It works on both Windows 7 and 10 ( on Windows 10 it may ask you to accept downloading .Net framework 3.5 )
 
-![labwebsiteblocker](labBlocker.PNG)
+![labwebsiteblocker](labBlocker2.PNG)
 
 Currently this version includes a list of website already hard-coded but in the future I will include text file to read website list which user wants to block
 
