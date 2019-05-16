@@ -7,7 +7,7 @@ It works on both Windows 7 and 10 ( on Windows 10 it may ask you to accept downl
 
 ![labwebsiteblocker](labBlocker2.PNG)
 
-Currently this version includes a list of website already hard-coded but in the future I will include text file to read website list which user wants to block
+Currently this version includes a list of website already hard-coded but in the future I will include text file to read website list, that user wants to block
 
 
 List of websites that can be blocked: ( or you can add your own list in the code and compile it)
