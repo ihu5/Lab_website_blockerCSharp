@@ -1,0 +1,8 @@
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\bin\Debug\LABwebBlocker2.exe
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\bin\Debug\LABwebBlocker2.pdb
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\LABwebBlocker2.Properties.Resources.resources
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\LABwebBlocker2.exe
+c:\users\w7\documents\visual studio 2010\Projects\LABwebBlocker2\LABwebBlocker2\obj\x86\Debug\LABwebBlocker2.pdb
