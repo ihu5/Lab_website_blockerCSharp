@@ -11,6 +11,7 @@ Currently this version includes a list of website already hard-coded but in the 
 
 
 List of websites that can be blocked: ( or you can add your own list in the code and compile it)
+
  youtube.com www.youtube.com   
  twitch.tv www.twitch.com   
  movs4u.tv www.movs4u.tv   
