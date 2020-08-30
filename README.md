@@ -3,7 +3,7 @@ Author: (@journey6)
 
 GUI application written in C# to block websites that can be used in school Labs to prevent students from getting busy with such websites like watching videos on Youtube ... etc
 
-It works on both Windows 7 and 10 (on Windows 10 it may ask you to accept downloading .Net framework 3.5 because it is intended to work on both Win7/10)
+It works on both Windows 7 and 10 (if you run release application on Windows 10 it may ask you to accept downloading .Net framework 3.5 because it is intended to work on both Win7/10)
 
 ![labwebsiteblocker](labBlocker2_update2.png)
 
