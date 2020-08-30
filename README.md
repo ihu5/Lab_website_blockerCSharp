@@ -9,7 +9,7 @@ It works on both Windows 7 and 10 ( on Windows 10 it may ask you to accept downl
 
 update 2 changelog:
 - now you can use external text file which contains your own blockList of websites (no need to use hardcoded list but it is still available)
-- used 0.0.0.0 for hosts file in order to blockwebsites instead of 127.0.0.1, this way is better not to waste look resources of local web server if any
+- used 0.0.0.0 for hosts file in order to block websites instead of 127.0.0.1, this way is better not to waste resources of local web server if any
 
 List of hardcoded websites that can be blocked: ( or you can add your own list with text file)
 
