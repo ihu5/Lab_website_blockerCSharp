@@ -13,31 +13,31 @@ update 2 changelog:
 
 List of hardcoded websites that can be blocked: ( or you can add your own list with text file)
 
-youtube.com www.youtube.com
-twitch.tv www.twitch.com
-movs4u.tv www.movs4u.tv
-twitter.com www.twitter.com
-aflam.io www.aflam.io
-dailymotion.com www.dailymotion.com
-vimeo.com www.vimeo.com
-metacafe.com www.metacafe.com
-d.tube www.d.tube
-whatsapp.com www.whatsapp.com web.whatsapp.com
-facebook.com www.facebook.com m.facebook.com 
-instagram.com www.instagram.com
-ask.fm www.ask.fm
-myspace.com www.myspace.com
-veoh.com www.veoh.com
-fushaar.com www.fushaar.com
-te3b.com www.te3b.com
-9gag.com www.9gag.com
-tiktok.com www.tiktok.com
-netflix.com www.netflix.com
-flickr.com www.flickr.com
-hulu.com www.hulu.com
-cimaclub.com www.cimaclub.com
-mycima.me www.mycima.me
-cima4u.tv www.cima4u.tv
-movizland.com on.movizland.com www.movizland.com
-egbest2.com w.egbest2.com www.egbest2.com
-e3rfezai.com www.e3rfezai.com
+youtube.com www.youtube.com <br />
+twitch.tv www.twitch.com <br />
+movs4u.tv www.movs4u.tv <br />
+twitter.com www.twitter.com <br />
+aflam.io www.aflam.io <br />
+dailymotion.com www.dailymotion.com <br />
+vimeo.com www.vimeo.com <br />
+metacafe.com www.metacafe.com <br />
+d.tube www.d.tube <br />
+whatsapp.com www.whatsapp.com web.whatsapp.com <br />
+facebook.com www.facebook.com m.facebook.com  <br />
+instagram.com www.instagram.com <br />
+ask.fm www.ask.fm <br />
+myspace.com www.myspace.com <br />
+veoh.com www.veoh.com <br />
+fushaar.com www.fushaar.com <br />
+te3b.com www.te3b.com <br />
+9gag.com www.9gag.com <br />
+tiktok.com www.tiktok.com <br />
+netflix.com www.netflix.com <br />
+flickr.com www.flickr.com <br />
+hulu.com www.hulu.com <br />
+cimaclub.com www.cimaclub.com <br />
+mycima.me www.mycima.me <br />
+cima4u.tv www.cima4u.tv <br />
+movizland.com on.movizland.com www.movizland.com <br />
+egbest2.com w.egbest2.com www.egbest2.com <br />
+e3rfezai.com www.e3rfezai.com <br />
