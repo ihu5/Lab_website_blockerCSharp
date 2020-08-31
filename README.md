@@ -7,7 +7,7 @@ It works on both Windows 7 and 10 (if you run release application on Windows 10 
 
 ![labwebsiteblocker](labBlocker2_update2.png)
 
-** update 2 - changelog: **
+**update 2 - changelog:**
 - now you can use external text file which contains your own blockList of websites (no need to use hardcoded list but it is still available)
 - used 0.0.0.0 for hosts file in order to block websites instead of 127.0.0.1, this way is better not to waste resources of local web server if any
 
