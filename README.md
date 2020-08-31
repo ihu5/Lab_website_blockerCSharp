@@ -1,4 +1,4 @@
-# Lab website blocker
+# LAB website blocker
 Author: (@journey6)
 
 GUI application written in C# to block websites that can be used in school Labs to prevent students from getting busy with such websites like watching videos on Youtube ... etc
@@ -7,11 +7,11 @@ It works on both Windows 7 and 10 (if you run release application on Windows 10 
 
 ![labwebsiteblocker](labBlocker2_update2.png)
 
-update 2 changelog:
+** update 2 - changelog: **
 - now you can use external text file which contains your own blockList of websites (no need to use hardcoded list but it is still available)
 - used 0.0.0.0 for hosts file in order to block websites instead of 127.0.0.1, this way is better not to waste resources of local web server if any
 
-List of hardcoded websites that can be blocked: ( or you can add your own list with text file)
+### List of hardcoded websites that can be blocked: ( or you can add your own list with text file)
 
 youtube.com www.youtube.com <br />
 twitch.tv www.twitch.com <br />
