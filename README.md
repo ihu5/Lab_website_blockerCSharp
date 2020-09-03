@@ -41,3 +41,4 @@ cima4u.tv www.cima4u.tv <br />
 movizland.com on.movizland.com www.movizland.com <br />
 egbest2.com w.egbest2.com www.egbest2.com <br />
 e3rfezai.com www.e3rfezai.com <br />
+telegram.org www.telegram.org web.telegram.org api.telegram.org <br />
